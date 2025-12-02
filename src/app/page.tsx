@@ -31,7 +31,7 @@ export default function Home() {
                 priority // Diz ao site para carregar essa imagem primeiro (importante para logo)
                 className="w-auto h-16 md:h-20" // Classes do Tailwind para ajustar a altura responsivamente
               />
-              <span className="text-2xl md:text-4xl font-extrabold tracking-wide uppercase">
+              <span className="text-1xl md:text-4xl font-extrabold tracking-wide uppercase">
                 Ello Trucks
               </span>
             </div>
@@ -66,7 +66,7 @@ export default function Home() {
               </span>              
             </h4> 
             */}
-            <p className="text-3xl md:text-2xl font-bold">
+            <p className="text-2xl md:text-2xl font-bold">
               <span className="text-brand-yellow">
                 Bons negócios e serviços para quem vive na estrada
               </span>
